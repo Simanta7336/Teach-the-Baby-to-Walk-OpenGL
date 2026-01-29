@@ -1,8 +1,10 @@
 # Teach-the-Baby-to-Walk-OpenGL
 Computer Graphics course project – 3D game using OpenGL (Python)
+
 Teach the Baby to Walk – 3D Game (OpenGL)
 
 Overview
+
 Teach the Baby to Walk is a 3D learning-based game that simulates how a baby gradually learns to walk.
 The gameplay focuses on progressive learning, balance control, and movement improvement through
 trial, failure, and recovery.
@@ -15,6 +17,7 @@ All game logic, rendering, and interaction are implemented using OpenGL in Pytho
 --------------------------------------------------
 
 Game Concept
+
 The game is designed around real-life walking development.
 
 The baby:
